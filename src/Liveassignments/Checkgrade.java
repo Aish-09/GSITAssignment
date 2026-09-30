@@ -1,4 +1,4 @@
-package Liveassignments;
+package liveassignments;
 
 public class Checkgrade {
 	

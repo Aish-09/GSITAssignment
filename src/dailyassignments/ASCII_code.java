@@ -1,4 +1,4 @@
-package assignment_28_09;
+package dailyassignments;
 
 public class ASCII_code {
 

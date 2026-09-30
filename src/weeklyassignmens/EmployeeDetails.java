@@ -1,4 +1,4 @@
-package assignment_29_09;
+package weeklyassignmens;
 
 public class EmployeeDetails {
 
