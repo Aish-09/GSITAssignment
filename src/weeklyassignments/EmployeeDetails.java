@@ -1,4 +1,4 @@
-package weeklyassignmens;
+package weeklyassignments;
 
 public class EmployeeDetails {
 
