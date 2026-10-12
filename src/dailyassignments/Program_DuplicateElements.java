@@ -18,8 +18,7 @@ public class Program_DuplicateElements {
                     break;
                 }
             }
-
-            // If already seen, skip to avoid printing multiple times
+            
             if (alreadyProcessed) {
                 continue;
             }
