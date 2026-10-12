@@ -23,7 +23,7 @@ public class assignment3_loops {
 	//Count of digit 
 	public static void main1(String[] args) {
 		
-		int num = 987654;
+		int num = 45678;
         int count = 0;
 
         while (num > 0) {
@@ -40,7 +40,7 @@ public class assignment3_loops {
 	//Armstrong Number
 	public static void main2(String[] args) {
 		
-		int num = 153;
+		int num = 444;
         int originalNum = num;
         int sum = 0;
 
@@ -107,6 +107,7 @@ public class assignment3_loops {
         }
         
         System.out.println("\n");
+        System.out.println("Reverse number = " + rev);
         // Compare reversed number with the original number
         if (originalNum == rev) {
             System.out.println(originalNum + " is a palindrome");
