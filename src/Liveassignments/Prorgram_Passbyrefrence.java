@@ -14,7 +14,6 @@ public class Prorgram_Passbyrefrence {
 		int[] data = {100,200,300};
 		decrease(data);
 		System.out.println("Number : " + data[0]);
-
 	}
 
 }
